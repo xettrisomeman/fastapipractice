@@ -1,0 +1,1 @@
+## Simple fastapi app to use as a boilterplate if i am doing projects.

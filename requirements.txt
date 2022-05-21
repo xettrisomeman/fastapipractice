@@ -1,0 +1,8 @@
+alembic==1.6.5
+fastapi==0.78.0
+jose==1.0.0
+passlib==1.7.4
+pydantic==1.7.4
+python_jose==3.3.0
+requests==2.27.1
+SQLAlchemy==1.4.15
